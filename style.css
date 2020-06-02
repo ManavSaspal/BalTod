@@ -142,6 +142,7 @@ body {
 }
 
 .pop-div {
+  background-color: white;
   position: absolute;
   top: 120px;
   left: 65px;
