@@ -22,7 +22,7 @@ body {
 .header-bar {
   position: absolute;
   left: -10px;
-  animation: header 50s linear 1s 1 forwards;
+  animation: header 50s linear 2s 1 forwards;
 }
 
 @keyframes header {
@@ -152,7 +152,7 @@ body {
 }
 /*111111111111111111111111111111*/
 .div1 {
-  animation: pop1 50s linear 1s 1 forwards;
+  animation: pop1 50s linear 2s 1 forwards;
 }
 
 @keyframes pop1 {
@@ -178,7 +178,7 @@ body {
 }
 /*22222222222222222222222222*/
 .div2 {
-  animation: pop2 50s linear 1s 1 forwards;
+  animation: pop2 50s linear 2s 1 forwards;
 }
 
 @keyframes pop2 {
@@ -202,7 +202,7 @@ body {
   }
 } /*333333333333333333333333*/
 .div3 {
-  animation: pop3 50s linear 1s 1 forwards;
+  animation: pop3 50s linear 2s 1 forwards;
 }
 
 @keyframes pop3 {
@@ -227,7 +227,7 @@ body {
   }
 } /*44444444444444444444444*/
 .div4 {
-  animation: pop4 50s linear 1s 1 forwards;
+  animation: pop4 50s linear 2s 1 forwards;
 }
 
 @keyframes pop4 {
@@ -252,7 +252,7 @@ body {
   }
 } /*55555555555555555555*/
 .div5 {
-  animation: pop5 50s linear 1s 1 forwards;
+  animation: pop5 50s linear 2s 1 forwards;
 }
 
 @keyframes pop5 {
@@ -277,7 +277,7 @@ body {
   }
 } /*666666666666666666666*/
 .div6 {
-  animation: pop6 50s linear 1s 1 forwards;
+  animation: pop6 50s linear 2s 1 forwards;
 }
 
 @keyframes pop6 {
@@ -302,7 +302,7 @@ body {
   }
 } /*777777777777777*/
 .div7 {
-  animation: pop7 50s linear 1s 1 forwards;
+  animation: pop7 50s linear 2s 1 forwards;
 }
 
 @keyframes pop7 {
@@ -327,7 +327,7 @@ body {
   }
 } /*8888888888888888888888*/
 .div8 {
-  animation: pop8 50s linear 1s 1 forwards;
+  animation: pop8 50s linear 2s 1 forwards;
 }
 
 @keyframes pop8 {
@@ -353,7 +353,7 @@ body {
 }
 /*999999999999999*/
 .div9 {
-  animation: pop9 50s linear 1s 1 forwards;
+  animation: pop9 50s linear 2s 1 forwards;
 }
 
 @keyframes pop9 {
@@ -379,7 +379,7 @@ body {
 }
 /*1010101010010*/
 .div10 {
-  animation: pop10 50s linear 1s 1 forwards;
+  animation: pop10 50s linear 2s 1 forwards;
 }
 
 @keyframes pop10 {
@@ -409,7 +409,7 @@ body {
   opacity: 0;
   box-shadow: 5px 5px 10px 10px red;
   border-radius: 50%;
-  animation: pointer 1s linear 1 forwards;
+  animation: pointer 2s linear 1 forwards;
 }
 
 @keyframes pointer {
@@ -442,7 +442,7 @@ body {
 
 .home-page {
   width: 100%;
-  animation: home-page 1s linear 1 forwards;
+  animation: home-page 2s linear 1 forwards;
 }
 
 @keyframes home-page {
@@ -473,7 +473,7 @@ body {
   width: 500px;
   height: 100px;
   background-color: rgba(255, 255, 255, 0.8);
-  animation: plus-content 4s linear 1s 1 forwards;
+  animation: plus-content 4s linear 2s 1 forwards;
 }
 
 @keyframes plus-content {
